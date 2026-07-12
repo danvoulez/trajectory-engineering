@@ -1,0 +1,13 @@
+{
+  "receipt_version": "trajectory.priority.receipt.v1",
+  "title": "Trajectory Engineering: Founding Priority Statement",
+  "version": "1.0",
+  "author": "Dan Voulez",
+  "institution": "The LogLine Foundation",
+  "place": "Lisbon, Portugal",
+  "published_on": "2026-07-12",
+  "artifact": "TRAJECTORY_ENGINEERING_FOUNDING_PRIORITY_STATEMENT_v1.0.md",
+  "sha256": "fa0a73b193fad31e377a1b53d2d5a03bf9ee9984da9ce02cd918f83f40ea27ec",
+  "signature_status": "unsigned",
+  "note": "This receipt records the local artifact hash. Public timestamping, repository publication, institutional signing or archival deposit should be performed separately."
+}
